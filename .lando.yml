@@ -1,0 +1,6 @@
+name: drupal-10-experimental
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupal-10-experimental
+  id: e8f27e96-b911-487c-93ed-e10b24cd6f78
